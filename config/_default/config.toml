@@ -19,7 +19,9 @@ copyright = "Copyright &copy; {year}"
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+[services]
+  [services.disqus]
+    shortname= ""
 
 ############################
 ## Advanced options below ##

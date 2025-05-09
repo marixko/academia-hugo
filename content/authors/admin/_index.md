@@ -14,12 +14,12 @@ btn:
 superuser: true
 
 # Role/position
-role: Posdoctoral Researcher in Cosmology
+role: Technology Specialist 
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade de São Paulo (USP)
-  url: "https://www.iag.usp.br/"
+- name: Observatório Nacional/MCTI
+  url: "https://on.br/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoctoral Researcher in Cosmology | PhD in Astronony | BSc in Astronomy and Statistics
@@ -54,7 +54,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lilianne.nakazono@usp.br'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lilianne.nakazono@on.br'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/li_nkzd
@@ -72,7 +72,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lilianne.nakazono@usp.br"
+email: "lilianne.nakazono@on.br"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -81,4 +81,4 @@ user_groups:
 # - Visitors
 ---
 
-I hold a Ph.D. in Astronomy from Instituto de Astronomia, Geofísica e Ciências Atmosféricas of Universidade de São Paulo. Currently, I am a postdoctoral researcher at Instituto de Física of Universidade de São Paulo. I am member of the [S-PLUS](https://www.splus.iag.usp.br) and [COIN](https://cosmostatistics-initiative.org/) collaborations. For S-PLUS, I have been involved in the data releases development since 2021 with the S-PLUS DR2. I am leading the search for quasar candidates (including anomalous quasars) and estimation of photometric redshifts for S-PLUS using a variety of Machine Learning and Deep Learning techniques. I am former director (2022) and former vice-director (2023) of Research and Development of Turing USP, a student organization focused on artificial intelligence. I see myself as a problem-solver, I enjoy working with any type of data or astronomical object and I love new challenges. 
+I hold a Ph.D. in Astronomy from Instituto de Astronomia, Geofísica e Ciências Atmosféricas of Universidade de São Paulo. I am member of the [S-PLUS](https://www.splus.iag.usp.br), [J-PAS](https://www.j-pas.org) and [COIN](https://cosmostatistics-initiative.org/) collaborations. For S-PLUS, I have been involved in the data releases development since 2021 with the S-PLUS DR2. I am leading the search for quasar candidates (including anomalous quasars) and estimation of photometric redshifts for S-PLUS using a variety of Machine Learning and Deep Learning techniques. I am former director (2022) and former vice-director (2023) of Research and Development of Turing USP, a student organization focused on artificial intelligence. I see myself as a problem-solver, I enjoy working with any type of data or astronomical object and I love new challenges. 
