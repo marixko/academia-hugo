@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Hello there!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
- hero_media = "sab.jpeg"
+ hero_media = ""
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -45,4 +45,4 @@ title = "Hello there!"
 +++
 ## **Hello there!**
 
-In this webpage you will find information about myself, my research in Astronomy and more. Feel free to contact me!
+In this webpage you will find information about myself, my research in Astronomy and more. I am looking for students to work with machine learning applications on large-sky survey data. Feel free to contact me if you are interested!

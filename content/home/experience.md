@@ -32,6 +32,18 @@ Our object classifier is the current primary source to photometrically select st
 
 
   """
+
+  [[experience]]
+  title = "Technology Specialist at Observatório Nacional/MCTI"
+  company = ""
+  company_url = ""
+  location = "Rio de Janeiro, BR"
+  date_start = "2025-05-05"
+  date_end = ""
+  description = """
+  
+  """
+
   [[experience]]
   title = "Postdoctoral program at Instituto de Física of Universidade de São Paulo"
   company = "Supervisor: prof. Luis Raul Abramo"

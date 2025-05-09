@@ -53,9 +53,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lilianne.nakazono@usp.br"
+email = "liliannenakazono@usp.br"
 # phone = "888 888 88 88"
-address = "Rua do Matao 1371, Butanta, São Paulo (SP), Brazil, 05508-090."
+address = "Rua General José Cristino, 77 - São Cristóvão, Rio de Janeiro, RJ. 20921-400. Sala 302"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
