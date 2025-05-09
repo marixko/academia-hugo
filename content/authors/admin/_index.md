@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Technology Specialist 
+role: Technology Specialist
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
   url: "https://on.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Researcher in Cosmology | PhD in Astronony | BSc in Astronomy and Statistics
+bio: Technology Specialist at ON/MCTI | PhD in Astronony | BSc in Astronomy and Statistics
 
 # Should the user's education and interests be displayed?
 display_education: true

@@ -45,4 +45,4 @@ title = "Hello there!"
 +++
 ## **Hello there!**
 
-In this webpage you will find information about myself, my research in Astronomy and more. I am currently looking for a postdoc position to start in 2024. Feel free to contact me!
+In this webpage you will find information about myself, my research in Astronomy and more. Feel free to contact me!

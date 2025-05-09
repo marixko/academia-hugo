@@ -36,7 +36,7 @@ Our object classifier is the current primary source to photometrically select st
   title = "Postdoctoral program at Instituto de Física of Universidade de São Paulo"
   company = "Supervisor: prof. Luis Raul Abramo"
   company_url = ""
-  location = "Seattle, US"
+  location = "São Paulo, BR"
   date_start = "2024-09-01"
   date_end = ""
   description = """
